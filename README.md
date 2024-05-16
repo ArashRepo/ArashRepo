@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **arashalikhaniwork@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ArashRepo/Resume/blob/main/ArashAlikhani.pdf](https://github.com/ArashRepo/Resume/blob/main/ArashAlikhani.pdf)
-
 - ⚡ Fun fact **Coffee Lover**
 
 <h3 align="left">Connect with me:</h3>
