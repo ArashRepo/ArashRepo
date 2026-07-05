@@ -24,7 +24,7 @@ I specialize in building systems where **workflow, correctness, and scalability 
 ## 🏗️ Current Work
 
 - BPMS Engine development at **MyData**
-- Industrial infrastructure systems at **IRISA**
+- Industrial systems development at **Industrial Factory**
 - Backend system design using ASP.NET Core
 - Workflow-based enterprise applications
 
@@ -74,8 +74,8 @@ I specialize in building systems where **workflow, correctness, and scalability 
 
 ## 💼 Experience
 
-**Infrastructure Solutions Architect**  
-IRISA | 2024 – Present  
+**Industrial Systems Developer**  
+Industrial Factory | 2024 – Present  
 
 **BPMS Developer**  
 MyData | 2020 – 2024  
